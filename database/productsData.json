@@ -1,0 +1,1002 @@
+[
+  {
+    "title": "eu mi nulla",
+    "productLine": "volutpat",
+    "description": "Pellentesque viverra pede ac diam.",
+    "designerName": "J Jelinek",
+    "price": 22,
+    "stars": 1.5,
+    "reviewCount": 58,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "luctus et ultrices posuere",
+    "productLine": "mauris",
+    "description": "Vivamus tortor.",
+    "designerName": "Ola Wihlborg",
+    "price": 31,
+    "stars": 4.6,
+    "reviewCount": 10,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "non velit donec",
+    "productLine": "molestie",
+    "description": "Vestibulum sed magna at nunc commodo placerat.",
+    "designerName": "J Jelinek",
+    "price": 88,
+    "stars": 3.0,
+    "reviewCount": 24,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "lorem ipsum dolor sit",
+    "productLine": "eget",
+    "description": "Curabitur gravida nisi at nibh.",
+    "designerName": "Carl Öjerstam",
+    "price": 44,
+    "stars": 2.3,
+    "reviewCount": 58,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "nisi nam ultrices",
+    "productLine": "mattis",
+    "description": "Suspendisse ornare consequat lectus.",
+    "designerName": "Ola Wihlborg",
+    "price": 98,
+    "stars": 2.8,
+    "reviewCount": 9,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "consequat ut nulla sed",
+    "productLine": "vulputate",
+    "description": "Maecenas rhoncus aliquam lacus.",
+    "designerName": "David Wahl",
+    "price": 81,
+    "stars": 1.9,
+    "reviewCount": 50,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "consequat metus sapien",
+    "productLine": "congue",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+    "designerName": "J Jelinek",
+    "price": 73,
+    "stars": 2.9,
+    "reviewCount": 9,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "curabitur convallis duis consequat",
+    "productLine": "posuere",
+    "description": "Praesent blandit.",
+    "designerName": "Carl Öjerstam",
+    "price": 91,
+    "stars": 3.6,
+    "reviewCount": 93,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "quam pharetra magna ac",
+    "productLine": "elementum",
+    "description": "Curabitur convallis.",
+    "designerName": "J Jelinek",
+    "price": 77,
+    "stars": 3.4,
+    "reviewCount": 27,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "rutrum neque aenean auctor",
+    "productLine": "habitasse",
+    "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "designerName": "J Jelinek",
+    "price": 23,
+    "stars": 2.5,
+    "reviewCount": 22,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "luctus nec molestie",
+    "productLine": "molestie",
+    "description": "Ut at dolor quis odio consequat varius.",
+    "designerName": "J Jelinek",
+    "price": 38,
+    "stars": 1.2,
+    "reviewCount": 94,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "dictumst etiam faucibus cursus",
+    "productLine": "purus",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+    "designerName": "Ola Wihlborg",
+    "price": 56,
+    "stars": 4.9,
+    "reviewCount": 48,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "quisque id justo",
+    "productLine": "eu",
+    "description": "Phasellus id sapien in sapien iaculis congue.",
+    "designerName": "J Jelinek",
+    "price": 66,
+    "stars": 1.4,
+    "reviewCount": 31,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "leo odio porttitor id",
+    "productLine": "a",
+    "description": "Praesent lectus.",
+    "designerName": "A Efverlund",
+    "price": 51,
+    "stars": 2.6,
+    "reviewCount": 11,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "elementum eu interdum",
+    "productLine": "ut",
+    "description": "Praesent id massa id nisl venenatis lacinia.",
+    "designerName": "Carl Öjerstam",
+    "price": 54,
+    "stars": 3.5,
+    "reviewCount": 64,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "sit amet justo morbi",
+    "productLine": "ut",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "designerName": "Ola Wihlborg",
+    "price": 79,
+    "stars": 4.5,
+    "reviewCount": 31,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "metus vitae ipsum aliquam",
+    "productLine": "dui",
+    "description": "Fusce posuere felis sed lacus.",
+    "designerName": "J Jelinek",
+    "price": 78,
+    "stars": 4.4,
+    "reviewCount": 1,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "pulvinar lobortis est",
+    "productLine": "nunc",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "designerName": "J Jelinek",
+    "price": 30,
+    "stars": 1.8,
+    "reviewCount": 28,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "suscipit nulla elit",
+    "productLine": "vel",
+    "description": "Proin eu mi.",
+    "designerName": "Carl Öjerstam",
+    "price": 60,
+    "stars": 3.2,
+    "reviewCount": 9,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "duis at velit",
+    "productLine": "et",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "designerName": "Ola Wihlborg",
+    "price": 24,
+    "stars": 3.6,
+    "reviewCount": 80,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "aliquet at feugiat non",
+    "productLine": "cum",
+    "description": "In hac habitasse platea dictumst.",
+    "designerName": "David Wahl",
+    "price": 91,
+    "stars": 2.0,
+    "reviewCount": 24,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "condimentum id luctus",
+    "productLine": "tortor",
+    "description": "Praesent id massa id nisl venenatis lacinia.",
+    "designerName": "Ola Wihlborg",
+    "price": 38,
+    "stars": 1.5,
+    "reviewCount": 33,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "nullam varius nulla facilisi",
+    "productLine": "vulputate",
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "designerName": "Ola Wihlborg",
+    "price": 53,
+    "stars": 3.1,
+    "reviewCount": 65,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "libero nam dui",
+    "productLine": "nisi",
+    "description": "Integer non velit.",
+    "designerName": "David Wahl",
+    "price": 43,
+    "stars": 3.9,
+    "reviewCount": 5,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "tristique tortor eu",
+    "productLine": "id",
+    "description": "Nunc purus.",
+    "designerName": "Carl Öjerstam",
+    "price": 93,
+    "stars": 1.3,
+    "reviewCount": 39,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "vehicula condimentum curabitur",
+    "productLine": "odio",
+    "description": "Praesent lectus.",
+    "designerName": "J Jelinek",
+    "price": 24,
+    "stars": 4.9,
+    "reviewCount": 53,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "sed lacus morbi sem",
+    "productLine": "aliquet",
+    "description": "Praesent lectus.",
+    "designerName": "Carl Öjerstam",
+    "price": 29,
+    "stars": 4.4,
+    "reviewCount": 72,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "vivamus tortor duis mattis",
+    "productLine": "nec",
+    "description": "Vivamus vestibulum sagittis sapien.",
+    "designerName": "Ola Wihlborg",
+    "price": 22,
+    "stars": 1.5,
+    "reviewCount": 54,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "aliquet pulvinar sed",
+    "productLine": "curabitur",
+    "description": "Quisque porta volutpat erat.",
+    "designerName": "Carl Öjerstam",
+    "price": 58,
+    "stars": 3.6,
+    "reviewCount": 34,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "nisl nunc nisl",
+    "productLine": "adipiscing",
+    "description": "Maecenas pulvinar lobortis est.",
+    "designerName": "Ola Wihlborg",
+    "price": 84,
+    "stars": 1.3,
+    "reviewCount": 3,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "velit vivamus vel",
+    "productLine": "posuere",
+    "description": "Curabitur at ipsum ac tellus semper interdum.",
+    "designerName": "J Jelinek",
+    "price": 66,
+    "stars": 3.3,
+    "reviewCount": 1,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "ipsum integer a",
+    "productLine": "viverra",
+    "description": "Pellentesque ultrices mattis odio.",
+    "designerName": "Ola Wihlborg",
+    "price": 73,
+    "stars": 1.7,
+    "reviewCount": 37,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "vestibulum ante ipsum primis",
+    "productLine": "ipsum",
+    "description": "Fusce posuere felis sed lacus.",
+    "designerName": "A Efverlund",
+    "price": 36,
+    "stars": 4.1,
+    "reviewCount": 72,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "diam nam tristique",
+    "productLine": "curae",
+    "description": "Nullam porttitor lacus at turpis.",
+    "designerName": "A Efverlund",
+    "price": 20,
+    "stars": 3.9,
+    "reviewCount": 56,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "ut ultrices vel augue",
+    "productLine": "vivamus",
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "designerName": "David Wahl",
+    "price": 28,
+    "stars": 1.2,
+    "reviewCount": 59,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "vel ipsum praesent",
+    "productLine": "justo",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices.",
+    "designerName": "A Efverlund",
+    "price": 41,
+    "stars": 2.8,
+    "reviewCount": 76,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "pretium nisl ut volutpat",
+    "productLine": "metus",
+    "description": "Nulla nisl.",
+    "designerName": "Ola Wihlborg",
+    "price": 43,
+    "stars": 3.1,
+    "reviewCount": 52,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "vulputate luctus cum",
+    "productLine": "ac",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum.",
+    "designerName": "A Efverlund",
+    "price": 37,
+    "stars": 1.1,
+    "reviewCount": 31,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "vel dapibus at",
+    "productLine": "tristique",
+    "description": "Suspendisse potenti.",
+    "designerName": "J Jelinek",
+    "price": 99,
+    "stars": 2.9,
+    "reviewCount": 78,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "nunc vestibulum ante ipsum",
+    "productLine": "morbi",
+    "description": "Proin at turpis a pede posuere nonummy.",
+    "designerName": "Ola Wihlborg",
+    "price": 28,
+    "stars": 2.9,
+    "reviewCount": 12,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "elementum eu interdum",
+    "productLine": "convallis",
+    "description": "Nulla mollis molestie lorem.",
+    "designerName": "Carl Öjerstam",
+    "price": 55,
+    "stars": 3.4,
+    "reviewCount": 86,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "mauris sit amet",
+    "productLine": "vel",
+    "description": "In quis justo.",
+    "designerName": "A Efverlund",
+    "price": 40,
+    "stars": 4.5,
+    "reviewCount": 65,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "dolor quis odio consequat",
+    "productLine": "ipsum",
+    "description": "Nulla nisl.",
+    "designerName": "Ola Wihlborg",
+    "price": 81,
+    "stars": 3.9,
+    "reviewCount": 15,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "ut erat curabitur gravida",
+    "productLine": "ut",
+    "description": "Quisque ut erat.",
+    "designerName": "Carl Öjerstam",
+    "price": 100,
+    "stars": 4.2,
+    "reviewCount": 69,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "risus auctor sed",
+    "productLine": "eget",
+    "description": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",
+    "designerName": "Carl Öjerstam",
+    "price": 38,
+    "stars": 3.7,
+    "reviewCount": 92,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "praesent id massa",
+    "productLine": "sit",
+    "description": "Suspendisse ornare consequat lectus.",
+    "designerName": "David Wahl",
+    "price": 98,
+    "stars": 2.3,
+    "reviewCount": 85,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "viverra eget congue",
+    "productLine": "hac",
+    "description": "Morbi quis tortor id nulla ultrices aliquet.",
+    "designerName": "David Wahl",
+    "price": 43,
+    "stars": 4.2,
+    "reviewCount": 48,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "justo morbi ut",
+    "productLine": "nulla",
+    "description": "Donec quis orci eget orci vehicula condimentum.",
+    "designerName": "Ola Wihlborg",
+    "price": 66,
+    "stars": 3.3,
+    "reviewCount": 51,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "sem duis aliquam convallis",
+    "productLine": "donec",
+    "description": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+    "designerName": "Carl Öjerstam",
+    "price": 27,
+    "stars": 2.1,
+    "reviewCount": 51,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "nisl venenatis lacinia",
+    "productLine": "velit",
+    "description": "Donec vitae nisi.",
+    "designerName": "J Jelinek",
+    "price": 34,
+    "stars": 3.0,
+    "reviewCount": 23,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "nisl duis ac",
+    "productLine": "montes",
+    "description": "Integer tincidunt ante vel ipsum.",
+    "designerName": "A Efverlund",
+    "price": 59,
+    "stars": 3.6,
+    "reviewCount": 31,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "et ultrices posuere",
+    "productLine": "lorem",
+    "description": "Praesent blandit lacinia erat.",
+    "designerName": "J Jelinek",
+    "price": 67,
+    "stars": 3.0,
+    "reviewCount": 5,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "sed tincidunt eu",
+    "productLine": "ipsum",
+    "description": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+    "designerName": "Ola Wihlborg",
+    "price": 46,
+    "stars": 2.1,
+    "reviewCount": 14,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "tempus semper est",
+    "productLine": "aliquet",
+    "description": "Integer ac neque.",
+    "designerName": "Carl Öjerstam",
+    "price": 42,
+    "stars": 2.5,
+    "reviewCount": 78,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "nulla ac enim",
+    "productLine": "habitasse",
+    "description": "Suspendisse potenti.",
+    "designerName": "J Jelinek",
+    "price": 81,
+    "stars": 1.6,
+    "reviewCount": 4,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "erat tortor sollicitudin",
+    "productLine": "maecenas",
+    "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "designerName": "A Efverlund",
+    "price": 78,
+    "stars": 3.3,
+    "reviewCount": 34,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "felis eu sapien cursus",
+    "productLine": "eget",
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "designerName": "A Efverlund",
+    "price": 75,
+    "stars": 3.2,
+    "reviewCount": 28,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "in faucibus orci luctus",
+    "productLine": "ipsum",
+    "description": "Maecenas ut massa quis augue luctus tincidunt.",
+    "designerName": "A Efverlund",
+    "price": 91,
+    "stars": 3.3,
+    "reviewCount": 43,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "turpis adipiscing lorem vitae",
+    "productLine": "tempus",
+    "description": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "designerName": "Ola Wihlborg",
+    "price": 55,
+    "stars": 1.5,
+    "reviewCount": 18,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "ante ipsum primis in",
+    "productLine": "nonummy",
+    "description": "Fusce posuere felis sed lacus.",
+    "designerName": "David Wahl",
+    "price": 42,
+    "stars": 4.2,
+    "reviewCount": 5,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "at dolor quis",
+    "productLine": "ultrices",
+    "description": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "designerName": "J Jelinek",
+    "price": 20,
+    "stars": 3.2,
+    "reviewCount": 60,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "in libero ut",
+    "productLine": "ut",
+    "description": "Praesent blandit lacinia erat.",
+    "designerName": "David Wahl",
+    "price": 21,
+    "stars": 4.0,
+    "reviewCount": 11,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "sed lacus morbi",
+    "productLine": "donec",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "designerName": "David Wahl",
+    "price": 71,
+    "stars": 1.6,
+    "reviewCount": 36,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "turpis sed ante",
+    "productLine": "ultrices",
+    "description": "Curabitur in libero ut massa volutpat convallis.",
+    "designerName": "Ola Wihlborg",
+    "price": 89,
+    "stars": 5.0,
+    "reviewCount": 39,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "vulputate ut ultrices vel",
+    "productLine": "lacus",
+    "description": "Suspendisse accumsan tortor quis turpis.",
+    "designerName": "A Efverlund",
+    "price": 38,
+    "stars": 2.2,
+    "reviewCount": 63,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "quam pede lobortis",
+    "productLine": "vestibulum",
+    "description": "Nunc nisl.",
+    "designerName": "A Efverlund",
+    "price": 99,
+    "stars": 4.9,
+    "reviewCount": 71,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "erat quisque erat eros",
+    "productLine": "elementum",
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+    "designerName": "Ola Wihlborg",
+    "price": 63,
+    "stars": 1.4,
+    "reviewCount": 94,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "nec molestie sed justo",
+    "productLine": "turpis",
+    "description": "Morbi porttitor lorem id ligula.",
+    "designerName": "David Wahl",
+    "price": 46,
+    "stars": 4.5,
+    "reviewCount": 14,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "neque duis bibendum morbi",
+    "productLine": "dui",
+    "description": "In sagittis dui vel nisl.",
+    "designerName": "A Efverlund",
+    "price": 52,
+    "stars": 4.9,
+    "reviewCount": 44,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "purus sit amet",
+    "productLine": "quis",
+    "description": "Pellentesque viverra pede ac diam.",
+    "designerName": "Ola Wihlborg",
+    "price": 45,
+    "stars": 1.2,
+    "reviewCount": 5,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "velit id pretium",
+    "productLine": "eleifend",
+    "description": "Donec ut mauris eget massa tempor convallis.",
+    "designerName": "J Jelinek",
+    "price": 64,
+    "stars": 4.2,
+    "reviewCount": 45,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "vitae quam suspendisse potenti",
+    "productLine": "justo",
+    "description": "Praesent blandit.",
+    "designerName": "Carl Öjerstam",
+    "price": 49,
+    "stars": 4.0,
+    "reviewCount": 66,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "maecenas tincidunt lacus at",
+    "productLine": "nulla",
+    "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+    "designerName": "Carl Öjerstam",
+    "price": 58,
+    "stars": 3.3,
+    "reviewCount": 46,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "sapien urna pretium nisl",
+    "productLine": "cras",
+    "description": "Integer a nibh.",
+    "designerName": "David Wahl",
+    "price": 31,
+    "stars": 4.9,
+    "reviewCount": 15,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "ut rhoncus aliquet",
+    "productLine": "tristique",
+    "description": "Integer tincidunt ante vel ipsum.",
+    "designerName": "David Wahl",
+    "price": 57,
+    "stars": 3.3,
+    "reviewCount": 53,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "turpis adipiscing lorem",
+    "productLine": "posuere",
+    "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "designerName": "J Jelinek",
+    "price": 71,
+    "stars": 4.6,
+    "reviewCount": 89,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "id nisl venenatis lacinia",
+    "productLine": "tellus",
+    "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "designerName": "Carl Öjerstam",
+    "price": 98,
+    "stars": 3.2,
+    "reviewCount": 88,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "rutrum neque aenean",
+    "productLine": "sed",
+    "description": "Integer tincidunt ante vel ipsum.",
+    "designerName": "J Jelinek",
+    "price": 95,
+    "stars": 3.7,
+    "reviewCount": 11,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "et magnis dis parturient",
+    "productLine": "massa",
+    "description": "Morbi ut odio.",
+    "designerName": "Carl Öjerstam",
+    "price": 34,
+    "stars": 1.4,
+    "reviewCount": 29,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "amet eleifend pede",
+    "productLine": "tincidunt",
+    "description": "Fusce posuere felis sed lacus.",
+    "designerName": "A Efverlund",
+    "price": 30,
+    "stars": 1.3,
+    "reviewCount": 68,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "tristique in tempus sit",
+    "productLine": "sem",
+    "description": "Nulla ut erat id mauris vulputate elementum.",
+    "designerName": "Carl Öjerstam",
+    "price": 98,
+    "stars": 2.5,
+    "reviewCount": 31,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "consequat metus sapien",
+    "productLine": "lobortis",
+    "description": "Nullam porttitor lacus at turpis.",
+    "designerName": "Ola Wihlborg",
+    "price": 100,
+    "stars": 3.7,
+    "reviewCount": 91,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "turpis a pede",
+    "productLine": "libero",
+    "description": "Etiam vel augue.",
+    "designerName": "A Efverlund",
+    "price": 80,
+    "stars": 3.5,
+    "reviewCount": 43,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "pede ac diam",
+    "productLine": "donec",
+    "description": "Suspendisse potenti.",
+    "designerName": "Carl Öjerstam",
+    "price": 68,
+    "stars": 2.2,
+    "reviewCount": 33,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "posuere nonummy integer non",
+    "productLine": "tellus",
+    "description": "Etiam faucibus cursus urna.",
+    "designerName": "David Wahl",
+    "price": 83,
+    "stars": 4.4,
+    "reviewCount": 91,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "luctus tincidunt nulla mollis",
+    "productLine": "interdum",
+    "description": "Donec semper sapien a libero.",
+    "designerName": "Carl Öjerstam",
+    "price": 53,
+    "stars": 3.2,
+    "reviewCount": 85,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "turpis nec euismod",
+    "productLine": "eu",
+    "description": "Ut at dolor quis odio consequat varius.",
+    "designerName": "Ola Wihlborg",
+    "price": 23,
+    "stars": 5.0,
+    "reviewCount": 3,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "pede ac diam cras",
+    "productLine": "et",
+    "description": "Morbi vel lectus in quam fringilla rhoncus.",
+    "designerName": "J Jelinek",
+    "price": 95,
+    "stars": 3.0,
+    "reviewCount": 8,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "ac neque duis bibendum",
+    "productLine": "vestibulum",
+    "description": "Nunc nisl.",
+    "designerName": "Ola Wihlborg",
+    "price": 52,
+    "stars": 4.1,
+    "reviewCount": 95,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "eget eros elementum pellentesque",
+    "productLine": "eleifend",
+    "description": "In hac habitasse platea dictumst.",
+    "designerName": "Ola Wihlborg",
+    "price": 73,
+    "stars": 4.4,
+    "reviewCount": 24,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "lobortis est phasellus",
+    "productLine": "amet",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+    "designerName": "David Wahl",
+    "price": 57,
+    "stars": 3.1,
+    "reviewCount": 58,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "eu massa donec",
+    "productLine": "rutrum",
+    "description": "Morbi porttitor lorem id ligula.",
+    "designerName": "Carl Öjerstam",
+    "price": 84,
+    "stars": 4.5,
+    "reviewCount": 4,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "blandit ultrices enim lorem",
+    "productLine": "lectus",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "designerName": "Carl Öjerstam",
+    "price": 70,
+    "stars": 4.1,
+    "reviewCount": 9,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "nibh quisque id justo",
+    "productLine": "imperdiet",
+    "description": "Nulla ac enim.",
+    "designerName": "J Jelinek",
+    "price": 53,
+    "stars": 4.0,
+    "reviewCount": 7,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "etiam pretium iaculis justo",
+    "productLine": "elementum",
+    "description": "Vivamus vestibulum sagittis sapien.",
+    "designerName": "Ola Wihlborg",
+    "price": 91,
+    "stars": 2.4,
+    "reviewCount": 33,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "nam ultrices libero non",
+    "productLine": "ac",
+    "description": "Duis at velit eu est congue elementum.",
+    "designerName": "J Jelinek",
+    "price": 35,
+    "stars": 4.8,
+    "reviewCount": 39,
+    "imageUrl": "http://dummyimage.com/500x500.png/cc0000/ffffff"
+  },
+  {
+    "title": "sit amet diam in",
+    "productLine": "blandit",
+    "description": "Nulla ut erat id mauris vulputate elementum.",
+    "designerName": "Ola Wihlborg",
+    "price": 81,
+    "stars": 4.1,
+    "reviewCount": 94,
+    "imageUrl": "http://dummyimage.com/500x500.png/5fa2dd/ffffff"
+  },
+  {
+    "title": "duis bibendum felis",
+    "productLine": "vel",
+    "description": "Pellentesque eget nunc.",
+    "designerName": "David Wahl",
+    "price": 23,
+    "stars": 3.8,
+    "reviewCount": 92,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  },
+  {
+    "title": "justo maecenas rhoncus aliquam",
+    "productLine": "eget",
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+    "designerName": "Ola Wihlborg",
+    "price": 95,
+    "stars": 3.6,
+    "reviewCount": 34,
+    "imageUrl": "http://dummyimage.com/500x500.png/ff4444/ffffff"
+  },
+  {
+    "title": "diam nam tristique",
+    "productLine": "donec",
+    "description": "Vivamus in felis eu sapien cursus vestibulum.",
+    "designerName": "A Efverlund",
+    "price": 27,
+    "stars": 4.8,
+    "reviewCount": 26,
+    "imageUrl": "http://dummyimage.com/500x500.png/dddddd/000000"
+  }
+]

@@ -1,0 +1,44 @@
+.container {
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1060px;
+  margin: 0 auto;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  align-items: center;
+  justify-content: center
+}
+
+.image {
+  padding: 20px;
+}
+
+.thoughtContainer {
+  padding: 40px 40px;
+}
+
+.header {
+  display: block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  padding: 5px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.designer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: bold;
+}
+
+.thought {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}

@@ -1,0 +1,50 @@
+{
+  "name": "AdditionalProductsPage",
+  "version": "1.0.0",
+  "description": "This module handles the following views:  -- Coordinating products   -- Data fed from products database -- Designer thoughts   -- Data fed from designers database -- Similar products by brand   -- Data fed from products database -- Similar products by type   -- Data fed from products database -- Footer   -- Static html content",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "css-loader": "^1.0.0",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "mongoose": "^5.2.13",
+    "mongoose-simple-random": "^0.4.1",
+    "newrelic": "^4.9.0",
+    "nodemon": "^1.18.4",
+    "pg": "^7.5.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-modal": "^3.5.1",
+    "sequelize": "^4.39.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-aws-s3": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server/index.js",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightsWatchFEC/AdditionalProductsPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightsWatchFEC/AdditionalProductsPage/issues"
+  },
+  "homepage": "https://github.com/NightsWatchFEC/AdditionalProductsPage#readme"
+}

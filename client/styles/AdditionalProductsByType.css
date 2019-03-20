@@ -1,0 +1,115 @@
+
+.noDecoration {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale;
+  width: 1060px;
+  margin: 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+
+.header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 15px;
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.displayContainer {
+  width: 1060px;
+  height: 218px;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  overflow: hidden;
+}
+
+.product {
+  display: block;
+  float: left;
+  left: 0px;
+  width: 150px;
+  margin: 0 10px;
+  transition: left .3s,top .3s ease;
+}
+
+.product:hover > .noDecoration {
+  text-decoration: underline;
+}
+
+.image {
+  margin-bottom: 7px;
+  width: 110px;
+  height: 110px;
+}
+
+.productLine {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height: 1.182em;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  font-weight: bold;
+  display: block;
+}
+
+.title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: block;
+  font-size: 13px;
+  line-height: 1.182em;
+}
+
+.price {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 12px;
+}
+
+.starContainer {
+  float: left;
+  width: 75%;
+  display: block;
+}
+
+.starOff {
+  font-size: 23px;
+  color: #eee;
+}
+
+.starOn {
+  margin-top: -31px;
+  font-size: 23px;
+  color: #fc0;
+  overflow: hidden;
+}
+
+.ratingCount {
+  margin-top: 10px;
+  font-size: 11px;
+  line-height: 14px;
+  float: left;
+  width: 20%;
+}
+
+.linkContainer {
+  text-align: right;
+  font-size: 13px;
+  padding-top: 10px;
+}
+
+.link {
+  color: #3399FD;
+  text-decoration: underline;
+}
